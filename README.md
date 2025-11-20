@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pragati Tiwari</h1>
-<h3 align="center">A student pursuing Bachelor of Vocation in web designing from Delhi University,India. I'm an computer enthusiast with currently exploring frontend development and C++ programming language.</h3>
+<h3 align="center">
+  Frontend Developer skilled in React.js, Javascript, Bootstrap and Tailwind CSS, experienced in building responsive,user-friendly applications with reusable components and state management. Passionate about creating modern and accessible UIs.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisispragatitiwari&label=Profile%20views&color=0e75b6&style=flat" alt="thisispragatitiwari" /> </p>
 
